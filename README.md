@@ -10,8 +10,8 @@
 
 - [Lógica de programação I: Os primeiros programas com Javascript e HTML](https://github.com/cintiamoraes/Alura/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20I%20-%20JS)
 - [Lógica de programação II: pratique com desenhos, animações e um jogo](https://github.com/cintiamoraes/Alura/tree/main/Logica%20de%20Programacao%20II%20-%20JS)
-- [Jogos clássicos parte 1: Iniciando no Javascript com Pong](https://editor.p5js.org/cintiamoraes/sketches/Q_pfgN_GH)
-- [Jogos clássicos parte 2: laços e listas com Javascript](https://editor.p5js.org/cintiamoraes/sketches/c0Z5WYn-H)
+- [Jogos clássicos parte 1: Iniciando no Javascript com Pong](https://editor.p5js.org/cintiamoraes/full/Q_pfgN_GH)
+- [Jogos clássicos parte 2: laços e listas com Javascript](https://editor.p5js.org/cintiamoraes/full/c0Z5WYn-H)
 - Arquitetura de computadores: Por trás de como seu programa funciona
 - Linux I: Conhecendo e utilizando o terminal
 - HTML5 e CSS3 parte 1: A primeira página da Web
