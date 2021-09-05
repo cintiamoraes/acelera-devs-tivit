@@ -2,6 +2,7 @@ console.log("Atribuição de variáveis");
 
 let nome="cintia";
 const sobrenome="moraes";
+var x;
 
 console.log(nome, sobrenome);
 
