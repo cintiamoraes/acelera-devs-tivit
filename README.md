@@ -48,15 +48,6 @@
 - JS na web: CRUD com JavaScript assíncrono
 - JavaScript na Web: Validação de Formulários e HTML5
 
-## Conteúdo Extra
-
-- Scrum: Agilidade em seu projeto
-- Kanban parte 1: Fundamentos Essenciais
-
-## Treinamento Certificação 
-
-- Microsoft AZ-900: Azure Fundamentals
-
 
 
 
