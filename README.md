@@ -29,13 +29,13 @@
 <h4>JavaScript a linguagem da Web</h4>
 
 - JavaScript: primeiros passos com a linguagem ✔️
-- JavaScript: Programando a Orientação a Objetos
-- JavaScript: Interfaces e Herança em Orientação a Objetos
+- JavaScript: Programando a Orientação a Objetos ✔️
+- JavaScript: Interfaces e Herança em Orientação a Objetos ✔️
 
 <h4>Front end UI</h4>
 
-- Layouts Responsivos: Trabalhando com layouts mobile
-- Arquitetura CSS: Descomplicando os problemas
+- Layouts Responsivos: Trabalhando com layouts mobile  ✔️
+- Arquitetura CSS: Descomplicando os problemas ✔️
 - Fundamentos de SEO: Primeiros passos para ranquear seu site na Busca Orgânica
 - Flexbox: Posicione elementos na tela
 - CSS Grid: Simplificando layouts
