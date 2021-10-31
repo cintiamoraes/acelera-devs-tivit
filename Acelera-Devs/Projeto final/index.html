@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Aluraconf</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/about.css">
+    <link rel="stylesheet" href="css/speakers.css">
+    <link rel="stylesheet" href="css/form.css">
+</head>
+
+<body>
+    <header class="header">
+        <nav class="main-menu">
+            <ul>
+                <li class="menu-item"><a href="#panel-about">Sobre</a></li>
+                <li class="menu-item"><a href="#panel-speakers">Palestrantes</a></li>
+            </ul>
+        </nav>
+        <div class="jumbotron">
+            <section class="panel-main">
+                <h1 class="title">ALURACONF</h1>
+                <h2 class="subtitle">30 OUTUBRO|RIO DE JANEIRO | 2021</h2>
+            </section>
+            <section class="panel-subscribe">
+                <a href="#panel-form" class="button">Inscreva-se</a>
+            </section>
+        </div>
+    </header>
+
+    <section class="panel panel-about" id="panel-about">
+        <div class="container">
+            <h2 class="title">Muito conteúdo: do frontend ao backend</h2>
+            <h3 class="subtitle">30 de Outubro de 2021 - na Cidade Maravilhosa</h3>
+
+            <div class="about-description">
+                <p>
+                    Com a AluraConf abordaremos o que há de novidade e conhecimentos essenciais a um desenvolver mobile.
+                </p>
+                <p>
+                    É uma grande chance de ficar por dentro dos assuntos de Android, iOS, Web mobile, desenvolvimento híbrido, UX, além da parte
+                    backend com Rest, Microservices, e BigData. O desenvolvedor atualizado vai estar aqui.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="panel panel-speakers" id="panel-speakers">
+        <div class="container">
+            <div class="about-speakers">
+                <h2 class="title">PALESTRANTES</h2>
+                <h3 class="subtitle">Aprenda com palestrantes que são referência no mercado</h3>
+            </div>
+
+            <ul class="speakers">
+                <li class="speaker">
+                    <figure class="speaker-portrait">
+                        <img class="speaker-image" src="img/palestrantes/placeholder.jpeg" alt="Foto do palestrante">
+                        <figcaption class="speaker-name">Cíntia Pereira</figcaption>
+                        <p class="speaker-bio">Business Analyst</p>
+                    </figure>
+                    <p class="speaker-speach">Git e Github</p>
+                </li>
+
+                <li class="speaker">
+                    <figure class="speaker-portrait">
+                        <img class="speaker-image" src="img/palestrantes/placeholder.jpeg" alt="Foto do palestrante">
+                        <figcaption class="speaker-name">Daniela Pez</figcaption>
+                        <p class="speaker-bio">Salesforce Admin</p>
+                    </figure>
+                    <p class="speaker-speach">Carreira em Javascript</p>
+                </li>
+
+                <li class="speaker">
+                    <figure class="speaker-portrait">
+                        <img class="speaker-image" src="img/palestrantes/placeholder.jpeg" alt="Foto do palestrante">
+                        <figcaption class="speaker-name">Edna Marçal </figcaption>
+                        <p class="speaker-bio">Desenvolvedora Jr. Front-end</p>
+                    </figure>
+                    <p class="speaker-speach">Como iniciei minha carreira?</p>
+                </li>
+
+                <li class="speaker">
+                    <figure class="speaker-portrait">
+                        <img class="speaker-image" src="img/palestrantes/placeholder.jpeg" alt="Foto do palestrante">
+                        <figcaption class="speaker-name">Erica Laurenti</figcaption>
+                        <p class="speaker-bio">Dsesenvolvedora Jr. </p>
+                    </figure>
+                    <p class="speaker-speach">O mundo Java</p>
+                </li>
+
+                <li class="speaker">
+                    <figure class="speaker-portrait">
+                        <img class="speaker-image" src="img/palestrantes/placeholder.jpeg" alt="Foto do palestrante">
+                        <figcaption class="speaker-name">Ellen </figcaption>
+                        <p class="speaker-bio">Desenvolvedor Jr. </p>
+                    </figure>
+                    <p class="speaker-speach">Desvendando o React</p>
+                </li>
+
+                <li class="speaker">
+                    <figure class="speaker-portrait">
+                        <img class="speaker-image" src="img/palestrantes/placeholder.jpeg" alt="Foto do palestrante">
+                        <figcaption class="speaker-name">Raisa Alves</figcaption>
+                        <p class="speaker-bio">Salesforce Marketing Cloud</p>
+                    </figure>
+                    <p class="speaker-speach">Entendendo o Contact Builder</p>
+                </li>
+            </ul>        
+        </div>
+    </section>
+
+    <section class="panel-form" id="panel-form">
+        <div class="container">
+            <h2 class="title">Seus dados</h2>
+            <form>
+                <div class="field">
+                    <label CLASS="field-label">Nome</label>
+                    <input class="field-input">
+                </div>
+                <div class="field">
+                    <label class="field-label">E-mail</label>
+                    <input class="field-input"> 
+                </div>
+                <div class="button-place">
+                    <button class="button">REALIZAR INSCRIÇÃO</button>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/index.js"></script>
+
+</body>
+
+<footer>Copyright 2021 © - Todos os direitos reservados</footer>
+</html>
